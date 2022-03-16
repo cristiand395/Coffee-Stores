@@ -2,7 +2,7 @@
 .container {
   margin-bottom: 1rem;
   position: relative;
-  z-index: 2;
+  z-index: 2
 }
 
 .title {
@@ -28,7 +28,7 @@
   font-size: 1.5rem /* 24px */;
   line-height: 2rem /* 32px */;
 
-  color: var(--text-white-100);
+  color: var(--text-black-100);
 }
 
 .buttonWrapper {
