@@ -1,4 +1,4 @@
-import styles from './Banner.module.css'
+import styles from './banner.module.css'
 
 const Banner = (props) => {
   return (
@@ -19,4 +19,4 @@ const Banner = (props) => {
   )
 }
 
-export { Banner }
+export default Banner
